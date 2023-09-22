@@ -1,6 +1,8 @@
 # Basic Dungeon Crawler
-Basic Dungeon Crawler example from Hands on Rust
+
+Basic Dungeon Crawler example from the book Hands-on Rust by Herbert Wolverson.
 
 ## Dependencies
-- BracketLib 0.8.1
-- Legion
+
+- BracketLib 0.8.7
+- Legion 0.4.0
